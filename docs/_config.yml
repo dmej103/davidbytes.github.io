@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: David Mejias GitHub page
+title: David Mejias website
 email: David.Mejia62@qmail.cuny.edu
 description: >- # this means to ignore newlines until "baseurl:"
   You may view all of my coding projects on this site.
 baseurl: "/davidbytes.github.io" # the subpath of your site, e.g. /blog
 url: "https://dmej103.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username: https://github.com/dmej103
+github_username: dmej103
 
 # Build settings
 theme: minimal
