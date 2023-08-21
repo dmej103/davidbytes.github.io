@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to David Mejia's site"
 date:   2023-08-20 19:24:29 -0400
 categories: jekyll update
 ---
