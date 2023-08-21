@@ -28,7 +28,7 @@ url: "https://dmej103.github.io/davidbytes.github.io/" # the base hostname & pro
 github_username:  dmej103
 
 # Build settings
-theme: Merlot
+theme: Minima
 plugins:
   - jekyll-feed
 
